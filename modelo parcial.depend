@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1717540476 source:c:\users\estudiante\desktop\modelo parcial\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+
